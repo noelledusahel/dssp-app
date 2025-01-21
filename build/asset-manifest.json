@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6a6d708.css",
+    "main.js": "/static/js/main.056e1cca.js",
+    "static/js/488.6f27a2a9.chunk.js": "/static/js/488.6f27a2a9.chunk.js",
+    "static/media/bee-frame.png": "/static/media/bee-frame.09d3edc0e5b5f694618e.png",
+    "static/media/hero-soil.png": "/static/media/hero-soil.2e9554bfdf961bc2328c.png",
+    "static/media/biochar.png": "/static/media/biochar.495cc9748a51beac7b9e.png",
+    "static/media/hero-soil-fadeout.png": "/static/media/hero-soil-fadeout.fea436ac028c638a7717.png",
+    "static/media/davis-street.png": "/static/media/davis-street.5839675a075428875f11.png",
+    "static/media/logo.svg": "/static/media/logo.4a6f5e7623018c18ea6700ba5aa996c0.svg",
+    "index.html": "/index.html",
+    "main.a6a6d708.css.map": "/static/css/main.a6a6d708.css.map",
+    "main.056e1cca.js.map": "/static/js/main.056e1cca.js.map",
+    "488.6f27a2a9.chunk.js.map": "/static/js/488.6f27a2a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6a6d708.css",
+    "static/js/main.056e1cca.js"
+  ]
+}
