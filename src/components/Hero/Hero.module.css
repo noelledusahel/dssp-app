@@ -1,0 +1,67 @@
+.hero {
+    background-image: url("../../img/hero-soil.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: -1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* padding: 20px; */
+    height: 100vh;
+}
+
+.title {
+  padding: 10vw 5vw;
+  color: #F3E4D6;
+  font-size: clamp(20px, 5vw, 30px);
+  font-family:Fraunces;
+  font-weight: 900;
+  line-height: normal;
+  text-align: center;
+  max-width: 100%;
+  width: auto;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  z-index: -1;
+
+  }
+
+  .fadeout, .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fadeout {
+    z-index: 4;
+    position: absolute;
+    bottom: -10px;
+    width: 100%; /* Ensures it spans the full width */
+    max-width: 100%;
+    height: auto;
+    /* align-items: flex-end; */
+  }
+
+  .logo{
+    padding: 25px;
+    /* z-index: 5;
+    align-items:baseline; */
+    
+  }
+
+button {
+  border: none;
+  color: white;
+  background-color: rgb(205, 122, 14);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 24px ;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  cursor: pointer;
+}
