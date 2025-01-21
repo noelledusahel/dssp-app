@@ -11,7 +11,7 @@ import davisStreet from '../../img/davis-street.png'
 
 function LandingPage() {
     const soil = {
-        icon: Soil,
+        icon: Soil, 
         header: "Healing Soil in Place",
         text: 
         "At the foundation of our work is          modelling a replicable and sustainable soil remediation. We are committed to healing soil in place, applying inputs that are widely accessible such as wood chips, biochar and compost, and open knowledge sharing. Join us for a workshop, or volunteer with the project.",
